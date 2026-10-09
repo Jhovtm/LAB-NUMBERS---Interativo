@@ -1,0 +1,49 @@
+header{
+     display: flex;
+    align-items: flex-start;
+    gap: 25px;
+}
+
+header img {
+    width: 220px;
+}
+
+.principal{
+    padding: 10px;
+}
+
+.principal h1{
+     margin: auto 0;
+    font-size: 30px;
+    font-family: sans-serif;
+
+}
+
+.principal h2{
+    margin: 5px 0px 0px 0px;
+    font-size: 17px;
+    font-family: sans-serif;
+     font-weight: 400;
+
+}
+
+section h2{
+    text-align: center;
+    margin: 30px;
+    font-family: sans-serif;
+}
+
+section p{
+    padding: 10px;
+}
+
+li{
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+li p{
+    margin: 13px;
+
+}
